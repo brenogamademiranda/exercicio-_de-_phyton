@@ -1,44 +1,53 @@
-🧠 Resumo: Lógica de Programação com PyCharm
-1. Introdução à Lógica de Programação
-Lógica de programação é a base para aprender a programar. Envolve o raciocínio lógico necessário para resolver problemas usando instruções que o computador entende.
+# 💡 Lógica de Programação - 1º Semestre
 
-2. Conceitos Fundamentais Estudados:
+**Aluno:** Breno Gama de Miranda  
+**Curso:** Ciencia da computação(TI)  
+**Semestre:** 1º  
 
-Algoritmos: passo a passo para resolver um problema.
+## 📝 Descrição da Disciplina
 
-Variáveis: locais de armazenamento de valores (ex: nome = "Breno").
+A disciplina de Lógica de Programação tem como objetivo ensinar os fundamentos do pensamento lógico aplicados ao desenvolvimento de programas de computador. Ela é a base para aprender qualquer linguagem de programação e resolver problemas de forma estruturada.
 
-Tipos de dados: texto (string), número inteiro (int), decimal (float), lógico (bool).
+---
 
-Operadores:
+## 🧠 Conteúdos Estudados
 
-Aritméticos: +, -, *, /
+### 1. Fundamentos de Lógica
+- Algoritmos e sua estrutura
+- Raciocínio lógico e sequencial
+- Fluxogramas e pseudocódigo
 
-Relacionais: ==, !=, >, <, >=, <=
+### 2. Elementos de Programação
+- **Variáveis e constantes**
+- **Tipos de dados**: inteiro, real, texto (string), booleano
+- **Operadores**:
+  - Aritméticos: `+`, `-`, `*`, `/`, `%`
+  - Relacionais: `==`, `!=`, `>`, `<`, `>=`, `<=`
+  - Lógicos: `and`, `or`, `not`
 
-Lógicos: and, or, not
+### 3. Estruturas de Decisão
+- `if`, `else`, `elif` (condições simples e compostas)
 
-Condicionais (if, else, elif): tomam decisões no código.
+### 4. Estruturas de Repetição
+- `while` (enquanto)
+- `for` (para)
+- Uso do `range()`
 
-Laços de repetição:
+### 5. Funções
+- Declaração e chamada de funções com `def`
+- Passagem de parâmetros e retorno de valores
 
-while (repete enquanto a condição for verdadeira)
+### 6. Entrada e Saída de Dados
+- `input()` para ler do usuário
+- `print()` para exibir resultados
 
-for (repete um número definido de vezes)
+---
 
-Funções: blocos de código reutilizáveis com def.
+## 🛠️ Ferramenta Utilizada
 
-3. Ferramenta Utilizada: PyCharm
-
-PyCharm é uma IDE (ambiente de desenvolvimento integrado) muito usada para programar em Python.
-
-Com ela, é possível:
-
-Escrever e executar códigos.
-
-Identificar erros com mais facilidade.
-
-Usar recursos como auto-completar e sugestões inteligentes.
-
-Ajuda a manter o código organizado com cores, identação e estrutura visual.
-
+### 🔸 PyCharm
+- **IDE (Ambiente de Desenvolvimento Integrado)** utilizada para programar em **Python**.
+- Recursos:
+  - Auto-completar código
+  - Destaque de sintaxe
+  - Execução e depuração de
